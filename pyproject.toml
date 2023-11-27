@@ -1,5 +1,5 @@
 [project]
-name = "robotframework_adls_library"
+name = "robotframework-adls-library"
 version = "0.0.1"
 authors = [
   { name="Erik Meijer", email="erik_meijer_14@hotmail.com" },
